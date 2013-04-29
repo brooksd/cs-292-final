@@ -1,0 +1,83 @@
+  * {
+  	margin:0; 
+  	padding:0;
+  }
+  
+  html, body {
+  	height:100%;
+  }
+  
+  body {
+  	width:71%;
+  	margin:auto;
+    background-image:url("../images/memorial.png");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+  	background-position:50% 50%;
+  }
+  
+  #header {
+  	text-align:center;
+  	font-size:2.4em;
+  }
+  
+  #header a:link {
+  	text-decoration:none;
+  	color:black;
+  }
+  
+  #header a:visited {
+  	text-decoration:none;
+  	color:black;
+  }
+  
+  #header a:hover {
+  	text-decoration:none;
+  	color:black;
+  }
+  
+  #header a:active {
+  	text-decoration:none;
+  	color:black;
+  }
+  
+  #navigation {
+  	text-align:center;
+  	font-size:1.5em;
+  }
+  
+  #navigation li {
+  	display:inline;
+  	padding-left:1.6em;
+  }
+  
+  #navigation a:link {
+  	text-decoration:none;
+  }
+  
+  #navigation a:visited {
+  	text-decoration:none;
+  }
+  
+  #navigation a:hover {
+  	text-decoration:underline;
+  }
+  
+  #navigation a:active {
+  	text-decoration:underline;
+  }
+    
+  #content {
+  }
+  
+  .lists {
+    padding-left:1em;
+  }
+
+  td, th {
+    padding:2px;
+  }
+
+  table {
+    margin:auto;
+  }
